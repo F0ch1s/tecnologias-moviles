@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_main"
+            android:icon="@android:drawable/ic_menu_view"
+            android:title="Pantalla Principal" />
+        <item
+            android:id="@+id/nav_conversor"
+            android:icon="@android:drawable/ic_menu_manage"
+            android:title="Conversor de Monedas" />
+        <item
+            android:id="@+id/nav_segunda"
+            android:icon="@android:drawable/ic_menu_send"
+            android:title="Segunda Actividad" />
+    </group>
+
+</menu>

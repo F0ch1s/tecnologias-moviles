@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_main"
+        android:title="Pantalla Principal"
+        android:icon="@android:drawable/ic_menu_view" />
+    <item
+        android:id="@+id/nav_conversor"
+        android:title="Conversor de Moneda"
+        android:icon="@android:drawable/ic_menu_manage" />
+    <item
+        android:id="@+id/nav_segunda"
+        android:title="Segunda Actividad"
+        android:icon="@android:drawable/ic_menu_send" />
+</menu>
